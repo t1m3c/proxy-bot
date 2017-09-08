@@ -79,6 +79,8 @@ pm2 log 'id' <-- this is the id pm2 gave your proxy
     - telegram.botToken = "your bot token"
     - telegram.chatId = "your chat id"
 
+5. Go to http://localhost:8081/settings/telegramTestMessage to test your telegram setup. You will receive a message if the setup is correct.
+
 # Invalid License
   - Talk to @Elroy on telegram to activate
 
