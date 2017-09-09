@@ -5,6 +5,9 @@ Enhanced Proxy for Gunbot on Poloniex
 If you have questions after reading the readme
 https://t.me/joinchat/FWYlMkKK-mkrSuj836ehug
 
+# Checkout the wiki for a description of the different settings and properties
+https://github.com/taniman/gunbotproxycommunity/wiki/ProxyBot <br>
+
 # Another guide
 <a href="https://gunthy.org/index.php?topic=570.msg3080#msg3080">Diesel's Guide</a>
 
