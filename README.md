@@ -74,7 +74,7 @@ pm2 log 'id' <-- this is the id pm2 gave your proxy
 # Setup telegram so the proxy can send you telegram messages
 1. Talk to @BotFather and type "/newbot" to create a bot. Answer the questions by typing answers and pressing enter.
 
-2. Start a chat to your bot's name (for ex. @gb-to-telegram) and press start button
+2. Start a chat to your bot's name (for ex. @MyProxyBot) and press start button
 
 3. Start another chat with https://telegram.me/get_id_bot This bot will reveal your Chat ID
 
