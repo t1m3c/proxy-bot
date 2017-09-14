@@ -72,7 +72,9 @@ To see the proxy log you could do. <br />
 pm2 log 'id' <-- this is the id pm2 gave your proxy
 
 # Setup telegram so the proxy can send you telegram messages
-1. Talk to @BotFather and type "/newbot" to create a bot. Answer the questions by typing answers and pressing enter.
+1. Talk to @BotFather   
+1.1. NOT to be confused with TheBotFather channel!!!  
+1.2 Once there type "/newbot" to create a bot. Answer the questions by typing answers and pressing enter.  
 
 2. Start a chat to your bot's name (for ex. @MyProxyBot) and press start button
 
