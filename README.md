@@ -1,12 +1,13 @@
 # ProxyBot
-Enhanced Proxy for Gunbot on Poloniex
+Enhanced Proxy for Gunbot on Poloniex <BR />
+Price: 0.015 BTC  
 <br />
 # Join the telegram group
 If you have questions after reading the readme
 https://t.me/joinchat/FWYlMkKK-mkrSuj836ehug
 
 # Checkout the wiki
-https://github.com/taniman/gunbotproxycommunity/wiki/ProxyBot <br>
+https://github.com/taniman/gunbotproxycommunity/wiki/ProxyBot  
 
 # Another guide
 <a href="https://gunthy.org/index.php?topic=570.msg3080#msg3080">Diesel's Guide</a>
