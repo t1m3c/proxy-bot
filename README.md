@@ -32,7 +32,7 @@ Gunbot log will be viewable from pm2 log. <br />
 <br />
 To be able to run the application you need Java 8 <br />
 Open a terminal or command prompt and type <br />
-java -jar GunbotProxyCommunityBot.jar<br />
+java -jar ProxyBot.jar -XX:+UseConcMarkSweepGC -Xmx256m -Xms256m<br />
 On OSX or some linux versions you might need to sudo su and then run the java -jar command.<br />
 <br />
 If you did everything correctly the application will start without giving you any error messages.
